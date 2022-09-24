@@ -6,19 +6,16 @@ I'm Mobasharul from Bangladesh, and I do content on Design and Development. I re
 
 ### Skills & Exprience  <br>  
 ✅PHP<br>
-✅Laravel <br>
+✅Laravel<br>
 ✅Codeigniter<br>
 ✅Jquery<br>
-✅REACT<br>  
+✅REACT<br>
 ✅JS<br>
-✅Angular<br>  
-✅Wordpress<br>  
-✅Bootstrap<br> 
+✅Angular<br>
+✅Wordpress<br>
+✅Bootstrap<br>
 ✅CSS<br>
 ✅HTML<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mobashsarulislam26/github-readme-stats)
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning period  
 - ⚡ Fun fact: I love writing codeing, and building fun experiments on type-level 
