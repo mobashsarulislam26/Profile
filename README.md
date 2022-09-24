@@ -11,6 +11,7 @@ Skills: PHP / Laravel / Codeigniter / Jquery / REACT / JS / Angular / Wordpress 
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobashsarulislam26&show_icons=true&theme=synthwave)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobashsarulislam26&hide=contribs,prs)
+
 
