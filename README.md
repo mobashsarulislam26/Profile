@@ -17,7 +17,7 @@ Bootstrap<br>
 CSS <br>
 HTML <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mobashsarulislam26/github-readme-stats)
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning period  
