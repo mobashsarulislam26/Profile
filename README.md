@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mobasharul Islam
-#### I am GitHub Readme Generator's creator
+####   A passionate  developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobashsarulislam26&show_icons=true&theme=cobalt)  
 
 I'm Mobasharul from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like laravel and React , as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.  
@@ -11,7 +11,7 @@ I'm Mobasharul from Bangladesh, and I do content on Design and Development. I re
 - 🌱 I’m currently learning period  
 - ⚡ Fun fact: I love writing codeing, and building fun experiments on type-level 
 
-<h4 align="center">A passionate  developer</h4>
+ 
 
 
 
